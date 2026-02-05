@@ -13,13 +13,6 @@ Play / Download:
 
 ---
 
-## Tech Stack
-
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white)
-
----
-
 ## Goals
 
 - Search for keys in hidden chests  
@@ -36,6 +29,13 @@ Play / Download:
 | Normal attack | Left Mouse Click |
 | Special attack | Right Mouse Click |
 | Swap element | `Space` |
+
+---
+
+## Tech Stack
+
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white)
 
 ---
 
